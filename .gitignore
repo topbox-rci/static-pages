@@ -16,6 +16,7 @@ npm-debug.log
 ehthumbs.db
 Thumbs.db
 
+data/auth0.json
 .sass-lint.yml
 dist
 dump.rdb

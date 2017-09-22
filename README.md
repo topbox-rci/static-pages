@@ -23,6 +23,10 @@ If you want to develop this will watch and compile static asset changes
 
     npm run watch
 
+### Data
+
+The auth0 example relies on data to function fully. Please copy `auth0.asmple.json` making a new file `auth0.json` and fill out all fields with information gained from a live auth0 page.
+
 ### Test
 
     npm test

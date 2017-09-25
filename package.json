@@ -1,6 +1,6 @@
 {
     "name": "@topbox-rci/static-pages",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Static Pages for TopBox.",
     "repository": {
         "type": "git",
